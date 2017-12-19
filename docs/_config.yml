@@ -7,7 +7,7 @@ github_username:  DANS-KNAW
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
